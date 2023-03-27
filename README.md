@@ -48,3 +48,4 @@ docker-compose run php php vendor/bin/php-cs-fixer fix src
 ### Todo list
 
 - More tests
+- Better app structure
